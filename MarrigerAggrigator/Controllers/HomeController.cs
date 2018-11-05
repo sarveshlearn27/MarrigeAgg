@@ -1,4 +1,4 @@
-﻿using System;
+﻿using MarrigeAggrigator.Core;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +8,12 @@ namespace MarrigerAggrigator.Controllers
 {
     public class HomeController : Controller
     {
+        IDBAdaptor dbAdaptor;
         public ActionResult Index()
         {
+            var excelFilePath = ControllerContext.HttpContext.Server.MapPath("~/AllMatrimonySites.xlsx");
+            dbAdaptor = new Adaptor();
+            dbAdaptor.FillAllProfileDetailsToDb(excelFilePath);
             return View();
         }
 
@@ -26,5 +30,6 @@ namespace MarrigerAggrigator.Controllers
 
             return View();
         }
+
     }
 }

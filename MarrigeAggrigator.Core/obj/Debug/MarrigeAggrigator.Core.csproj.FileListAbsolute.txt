@@ -1,0 +1,14 @@
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\MarrigeAggrigator.Core.dll.config
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\MarrigeAggrigator.Core.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\MarrigeAggrigator.Core.pdb
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\EntityFramework.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\EntityFramework.xml
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\obj\Debug\MarrigeAggrigator.Core.csprojResolveAssemblyReference.cache
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\obj\Debug\MarrigeAggrigator.Core.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\obj\Debug\MarrigeAggrigator.Core.pdb
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\ExcelDataReader.DataSet.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\ExcelDataReader.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\ExcelDataReader.xml
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigeAggrigator.Core\bin\Debug\ExcelDataReader.DataSet.xml

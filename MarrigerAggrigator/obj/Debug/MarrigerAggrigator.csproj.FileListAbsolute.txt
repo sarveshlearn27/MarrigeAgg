@@ -67,3 +67,11 @@ F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\Microsoft.Owin.Se
 F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\obj\Debug\MarrigerAggrigator.csprojResolveAssemblyReference.cache
 F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\obj\Debug\MarrigerAggrigator.dll
 F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\obj\Debug\MarrigerAggrigator.pdb
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\log4net.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\log4net.xml
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\MarrigeAggrigator.Core.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\ExcelDataReader.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\ExcelDataReader.DataSet.dll
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\MarrigeAggrigator.Core.pdb
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\ExcelDataReader.xml
+F:\MarrigeAggrigator\MarrigerAggrigator\MarrigerAggrigator\bin\ExcelDataReader.DataSet.xml
