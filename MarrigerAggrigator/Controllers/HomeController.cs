@@ -11,16 +11,13 @@ namespace MarrigerAggrigator.Controllers
         IDBAdaptor dbAdaptor;
         public ActionResult Index()
         {
-            var excelFilePath = ControllerContext.HttpContext.Server.MapPath("~/AllMatrimonySites.xlsx");
-            dbAdaptor = new Adaptor();
-            dbAdaptor.FillAllProfileDetailsToDb(excelFilePath);
+            //FillExcelDataDb();
             return View();
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
@@ -29,6 +26,20 @@ namespace MarrigerAggrigator.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+
+
+        /// <summary>
+        /// This is Temp Method
+        /// </summary>
+        private void FillExcelDataDb()
+        {
+            var matriMonyExcel = ControllerContext.HttpContext.Server.MapPath("~/AllMatrimonySites.xlsx");
+            var profileExcel = ControllerContext.HttpContext.Server.MapPath("~/AllProfiles.xlsx");
+
+            dbAdaptor = new Adaptor();
+            //dbAdaptor.FillAllWebSitesToDB(matriMonyExcel);
+            dbAdaptor.FillAllProfilesToDB(profileExcel);
         }
 
     }

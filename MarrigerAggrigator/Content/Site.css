@@ -1,24 +1,208 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+﻿/* card details start  */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:400,400i,700,700i');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ecf0f1 !important;
 }
 
-/* Set padding to keep content from hitting the edges */
-.body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+.container {
+    max-width: 1200px;
 }
 
-/* Override the default bootstrap behavior where horizontal description lists 
-   will truncate terms that are too long to fit in the left column 
-*/
-.dl-horizontal dt {
+    .container.body-content {
+        float: right;
+    }
+
+section {
+    padding: 20px 0;
+}
+
+.details-card {
+    background: white;
+    /*border-top-right-radius: 10px;*/
+}
+
+.card-content {
+    background: #ffffff;
+    border: 4px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+.card-img {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0;
+    z-index: 1;
+}
+
+    .card-img img {
+        width: 100%;
+        height: 15vw;
+        object-fit: cover;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+        .card-img img:hover {
+            -moz-transform: scale(1.1);
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+        }
+
+    .card-img span {
+        position: absolute;
+        top: 15%;
+        left: 12%;
+        background: #1ABC9C;
+        padding: 6px;
+        color: #fff;
+        font-size: 12px;
+        border-radius: 4px;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        -ms-border-radius: 4px;
+        -o-border-radius: 4px;
+        transform: translate(-50%,-50%);
+    }
+
+        .card-img span h4 {
+            font-size: 12px;
+            margin: 0;
+            padding: 10px 5px;
+            line-height: 0;
+        }
+
+.card-desc {
+    padding: 1.25rem;
+}
+
+    .card-desc h3 {
+        color: #000000;
+        font-weight: 600;
+        font-size: 1.5em;
+        line-height: 1.3em;
+        margin-top: 0;
+        margin-bottom: 5px;
+        padding: 0;
+    }
+
+    .card-desc p {
+        color: #747373;
+        font-size: 14px;
+        font-weight: 400;
+        font-size: 1em;
+        line-height: 1.5;
+        margin: 0px;
+        margin-bottom: 20px;
+        padding: 0;
+        font-family: 'Raleway', sans-serif;
+    }
+
+.btn-card {
+    background-color: #1ABC9C;
+    color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    padding: .84rem 2.14rem;
+    font-size: .81rem;
+    -webkit-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    -o-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    margin: 0;
+    border: 0;
+    -webkit-border-radius: .125rem;
+    border-radius: .125rem;
+    cursor: pointer;
+    text-transform: uppercase;
     white-space: normal;
+    word-wrap: break-word;
+    color: #fff;
 }
 
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
+    .btn-card:hover {
+        background: orange;
+    }
+
+
+
+a.btn-card {
+    text-decoration: none;
+    color: #fff;
+    font-size: 9px;
 }
+
+#websiteName {
+    width: 100%;
+    background: white;
+    height: 21%;
+    margin-top: 5%;
+    margin: 0px;
+    padding: 10px;
+    margin-top: 2%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: x-large;
+    padding-left: 20px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+.search {
+    width: 100%;
+    position: relative;
+    Margin-top: 30%;
+}
+
+.searchTerm {
+    float: left;
+    width: 100%;
+    border: 3px solid #00B4CC;
+    padding: 5px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    color: #9DBFAF;
+}
+
+    .searchTerm:focus {
+        color: #00B4CC;
+    }
+
+.searchButton {
+    position: absolute;
+    right: -50px;
+    width: 40px;
+    height: 50px;
+    border: 1px solid #00B4CC;
+    background: #00B4CC;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap {
+    width: 30%;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#layoutdiv {
+    margin-top: 10%;
+}
+
+.container.body-content {
+    float: none;
+}
+
+/* End card section */

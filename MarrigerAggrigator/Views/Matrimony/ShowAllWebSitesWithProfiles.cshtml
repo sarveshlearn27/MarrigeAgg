@@ -1,0 +1,63 @@
+﻿<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+@model MarrigerAggrigator.ViewModels.Matrimony
+@{
+    /**/
+    ViewBag.Title = "ShowAllWebSites";
+}
+
+<div id="search" class="wrap">
+    <div class="search">
+        <input type="text" class="searchTerm" placeholder="What are you looking for?">
+        <button type="submit" class="searchButton">
+            <i class="fa fa-search"></i>
+        </button>
+    </div>
+</div>
+
+<div id="layoutdiv">
+
+    @foreach (var website in Model.AllWebSites)
+            {
+        <a href="@website.Link"><h3 id="websiteName">@website.WebSiteName</h3></a>
+
+        <section class="details-card">
+            <div class="container">
+                <div class="row">
+                    @foreach (var profile in website.Profiles)
+                    {
+                    <div class="col-md-3">
+                        <div class="card-content">
+                            <div class="card-img">
+                                <img src="@profile.ProfilePicPath" alt="">
+                            </div>
+                            <div class="card-desc">
+                                <h3>@profile.Name</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
+                                    voluptas totam
+                                </p>
+                                <a href="#" class="btn-card">Read</a>
+                            </div>
+                        </div>
+                    </div>
+                    }
+                </div>
+            </div>
+        </section>
+    }
+
+</div>
+
+
+
+
+
+
+
+
+
