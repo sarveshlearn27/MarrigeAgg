@@ -12,7 +12,7 @@ namespace MarrigeAggrigator.Core
         /// Fill All Profile Details to db from dataSource
         /// </summary>
         /// <returns></returns>
-        Result FillAllProfileDetailsToDb(string filePath);
+        Result FillAllWebSitesToDB(string filePath);
 
         /// <summary>
         /// Add Profile to db
@@ -31,5 +31,13 @@ namespace MarrigeAggrigator.Core
         /// </summary>
         /// <returns></returns>
         Result ViewProfile();
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns></returns>
+        Result FillAllProfilesToDB(string filePath);
+
     }
 }

@@ -22,5 +22,7 @@ namespace MarrigeAggrigator.Core
         public MatrimonyWebsite WebSiteOfProfile { get; set; }
 
         public string WebSiteName { get; set; }
+
+        public string Sex { get; set; }
     }
 }

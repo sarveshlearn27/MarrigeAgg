@@ -205,4 +205,29 @@ a.btn-card {
     float: none;
 }
 
+.wrapper {
+    margin: 0px auto;
+    background: #f7f7f7;
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    padding: 10px;
+    float:left;
+}
+
+.dropdown {
+    float: left;
+}
+
+.beginSearch {
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.searchinfo{
+    float:left;
+
+}
+
 /* End card section */
