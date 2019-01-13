@@ -1,4 +1,27 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+<div class="bg">
+    <div class="search">
+
+        <label for="sex">I'm looking for a</label>
+        <select id="sex" class="searchSelect">
+            <option>Woman</option>
+            <option>Man</option>
+        </select>
+
+        <label for="ageValues">aged</label>
+        <select id="ageValues" class="searchSelect"></select>
+        <label for="ageValues2">to</label>
+        <select id="ageValues2" class="searchSelect"></select>
+
+        <label for="religion">of religion</label>
+        <select id="religion" class="searchSelect"></select>
+
+        <label for="mothertounge">and mother tongue</label>
+        <select id="mothertounge" class="searchSelect"></select>
+
+        <button type="button" class="btn btn-primary begin">Let's Begin</button>
+    </div>
+</div>
