@@ -38,7 +38,7 @@ namespace MarrigerAggrigator.Controllers
             var profileExcel = ControllerContext.HttpContext.Server.MapPath("~/AllProfiles.xlsx");
 
             dbAdaptor = new Adaptor();
-            //dbAdaptor.FillAllWebSitesToDB(matriMonyExcel);
+            dbAdaptor.FillAllWebSitesToDB(matriMonyExcel);
             dbAdaptor.FillAllProfilesToDB(profileExcel);
         }
 

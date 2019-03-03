@@ -1,6 +1,10 @@
-﻿using System;
+﻿using MarrigeAggrigator.Core.Utility;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -96,14 +100,11 @@ namespace MarrigeAggrigator.Core
 
             try
             {
-                using (var modelContext = new ModelContext())
-                {
-                    allWebsites = modelContext.MartrimonyWebSites.ToList();
-                }
+                allWebsites = FileReader.GetDetails<List<MatrimonyWebsite>>(Constants.AllMatrimonyWebSitesPath);
                 allWebsites.ForEach(website => website.WebSiteName = string.Format(Constants.Viewprofile, website.WebSiteName));
                 return result;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
                 throw;
@@ -119,10 +120,7 @@ namespace MarrigeAggrigator.Core
             };
             try
             {
-                using (var modelContext = new ModelContext())
-                {
-                    allProfiles = modelContext.Profiles.ToList();
-                }
+                allProfiles = FileReader.GetDetails<List<MatrimonyProfile>>(Constants.AllProfiles);
                 return result;
             }
             catch (Exception)
