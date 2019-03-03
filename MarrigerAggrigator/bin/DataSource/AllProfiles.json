@@ -1,0 +1,34 @@
+﻿[
+	{
+		"NAME": "Pradnya Phulore_1",
+		"Age": "22",
+		"Community": "Marathi",
+		"ProfilePicPath": "./ProfilePictures/1.png",
+		"WebSiteName": "Shaadi",
+		"Sex": "F"
+	},
+	{
+		"NAME": "Pradnya Phulore_2",
+		"Age": "22",
+		"Community": "Marathi",
+		"ProfilePicPath": "./ProfilePictures/2.png",
+		"WebSiteName": "Jeevansathi",
+		"Sex": "F"
+	},
+	{
+		"NAME": "Pradnya Phulore_3",
+		"Age": "22",
+		"Community": "Marathi",
+		"ProfilePicPath": "./ProfilePictures/3.png",
+		"WebSiteName": "Bharat Matrimony",
+		"Sex": "F"
+	},
+  {
+    "NAME": "Pradnya Phulore_4",
+    "Age": "22",
+    "Community": "Marathi",
+    "ProfilePicPath": "./ProfilePictures/4.png",
+    "WebSiteName": "assamese matrimony",
+    "Sex": "F"
+  }
+]

@@ -10,20 +10,19 @@
     ViewBag.Title = "ShowAllWebSites";
 }
 
-<div id="search" class="wrap">
+@*<div id="search" class="wrap">
     <div class="search">
         <input type="text" class="searchTerm" placeholder="What are you looking for?">
         <button type="submit" class="searchButton">
             <i class="fa fa-search"></i>
         </button>
     </div>
-</div>
+</div>*@
 
 <div id="layoutdiv">
-
     @foreach (var website in Model.AllWebSites)
             {
-        <a href="@website.Link"><h3 id="websiteName">@website.WebSiteName</h3></a>
+        <a href="@website.Link" target="_blank"><h3 id="websiteName">@website.WebSiteName</h3></a>
 
         <section class="details-card">
             <div class="container">
@@ -36,12 +35,11 @@
                                 <img src="@profile.ProfilePicPath" alt="">
                             </div>
                             <div class="card-desc">
-                                <h3>@profile.Name</h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
                                     voluptas totam
                                 </p>
-                                <a href="#" class="btn-card">Read</a>
+                                <a href="#" class="btn-card">View Profile</a>
                             </div>
                         </div>
                     </div>
