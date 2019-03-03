@@ -9,7 +9,7 @@ namespace MarrigeAggrigator.Core
     public  class Constants
     {
         public const string MatrimonyExcel = "\\All Matrimony Sites.xslx";
-        public const string Viewprofile = "Contant these profiles on {0}";
+        public const string Viewprofile = "View profiles on {0}";
         public const string AllMatrimonyWebSitesPath = @"\DataSource" + @"\AllMatrimonySites.json";
         public const string AllProfiles = @"\DataSource" + @"\AllProfiles.json";
 

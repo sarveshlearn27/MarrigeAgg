@@ -1,2237 +1,6120 @@
 ﻿[
 	{
-		"SITE NAME": "Shaadi",
-		"LINK": "www.shaadi.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "assamesematrimony",
+		"Link": "https://www.assamesematrimony.com/register/registerform.php",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "assameseshaadi",
+		"Link": "https://www.assameseshaadi.com/",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "assameseshaadicentre",
+		"Link": "http://www.assameseshaadicentre.com/",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "imarriages",
+		"Link": "https://imarriages.com/assamese-matrimony",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/assamese-matrimonial",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "lifepartner",
+		"Link": "https://www.lifepartner.in/matrimonial_sites/assamese_matrimonials/",
+		"Mother Tounge": "assamese ",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "bengalimatrimony",
+		"Link": "www.bengalimatrimony.com",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "bengalishaadi",
+		"Link": "https://www.bengalishaadi.com/",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "99marriageguru",
+		"Link": "http://99marriageguru.com/",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "shahenai",
+		"Link": "https://www.shahenai.com/",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "pakadekha",
+		"Link": "www.pakadekha.com/home.php",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "subhoyog",
+		"Link": "https://subhoyog.com/index.php",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "paatropaatri",
+		"Link": "http://www.paatropaatri.in/register.html",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "vivaah",
+		"Link": "https://www.vivaah.com/marriagesite/community/bengali-matrimonial.php",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "lovevivah",
+		"Link": "https://www.lovevivah.com/matrimony/bengali-matrimony",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/bengali-matrimonial",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "imarriages",
+		"Link": "https://imarriages.com/bengali-matrimony",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "lifepartner",
+		"Link": "https://www.lifepartner.in/matrimonial_sites/west_bengal_matrimonials/",
+		"Mother Tounge": "bengali",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "gujaratimatrimony",
+		"Link": "www.gujaratimatrimony.com",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "gujaratishaadi",
+		"Link": "https://www.gujaratishaadi.com/",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "shubhlagnam",
+		"Link": "http://www.shubhlagnam.com/register",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "mysambandh",
+		"Link": "https://www.mysambandh.com/",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "gujaratishaadicentre",
+		"Link": "http://www.gujaratishaadicentre.com/",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
+	},
+	{
+		"WebSiteName": "lagnavidhi",
+		"Link": "www.lagnavidhi.com/",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "Jeevansathi",
-		"LINK": "www.jeevansathi.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "shubhbandhan",
+		"Link": "http://www.shubhbandhan.com/register1.php?type=1",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "Bharat Matrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "gujjumatch",
+		"Link": "http://www.gujjumatch.com/Registration",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "assamese matrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "vivaah",
+		"Link": "https://www.vivaah.com/marriagesite/community/gujarati-matrimonial.php",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "bengalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/gujarati-matrimonial",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gujaratimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "freesathi",
+		"Link": "www.freesathi.com/marriagesite/mothertongue/gujarati-matrimonial.aspx",
+		"Mother Tounge": "Gujarati",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "hindimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "hindimatrimony",
+		"Link": "www.hindimatrimony.com",
+		"Mother Tounge": "Hindi",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "kannadamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "hindishaadi",
+		"Link": "https://www.hindishaadi.com/",
+		"Mother Tounge": "Hindi",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "keralamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "hindushaadi",
+		"Link": "https://www.hindushaadi.in/",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "marathimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "srisankaramatrimony",
+		"Link": "https://www.srisankaramatrimony.com",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "marwadimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Marathi",
-		"Free": "No"
+		"WebSiteName": "hindishaadicentre",
+		"Link": "http://www.hindishaadicentre.com/",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "oriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "shadikarishta",
+		"Link": "www.shadikarishta.com/",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "parsimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "hindumarriage",
+		"Link": "https://www.hindumarriage.com/",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "punjabimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "vivaah",
+		"Link": "https://www.vivaah.com/marriagesite/community/hindi-matrimonial.php",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "sindhimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/hindi-matrimonial",
+		"Mother Tounge": "Hindi"
 	},
 	{
-		"SITE NAME": "tamilmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "kannadamatrimony",
+		"Link": "www.kannadamatrimony.com",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "telugumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "kannadashaadi",
+		"Link": "https://www.kannadashaadi.com/",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "urdumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "kannadadevangamatrimony",
+		"Link": "http://www.kannadadevangamatrimony.com/newuser-registration",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "AssistedMatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "srisankaramatrimony",
+		"Link": "https://www.srisankaramatrimony.com/kannada-matrimony",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "EliteMatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "smarthashaadi",
+		"Link": "http://www.smarthashaadi.com/matrimony/kannada-matrimony",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "muslimmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/kannada-matrimonial",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "christianmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Sindhi",
-		"Free": "No"
+		"WebSiteName": "vivaah",
+		"Link": "https://www.vivaah.com/marriagesite/community/kannada-matrimonial.php",
+		"Mother Tounge": "Kannada"
 	},
 	{
-		"SITE NAME": "sikhmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "keralamatrimony",
+		"Link": "www.keralamatrimony.com",
+		"Mother Tounge": "Malayalam"
 	},
 	{
-		"SITE NAME": "jainmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "m4marry",
+		"Link": "https://www.m4marry.com/",
+		"Mother Tounge": "Malayalam"
 	},
 	{
-		"SITE NAME": "buddhistmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marhabamatrimony",
+		"Link": "http://www.marhabamatrimony.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "CommunityMatrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "nikahinkerala",
+		"Link": "http://www.nikahinkerala.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "addharmimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "vellalamangalya",
+		"Link": "www.vellalamangalya.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "adidravidarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "a2zkeralawedding",
+		"Link": "http://www.a2zkeralawedding.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "agarwalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "intimatematrimony",
+		"Link": "https://www.intimatematrimony.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "agrimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "malayogamonline",
+		"Link": "https://www.malayogamonline.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "ahommatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "keralachristianmatrimony",
+		"Link": "https://www.keralachristianmatrimony.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "ambalavasimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "deepikamatrimonial",
+		"Link": "http://www.deepikamatrimonial.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "anavilmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marathimatrimony",
+		"Link": "www.marathimatrimony.com",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "arekaticamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marathishaadi",
+		"Link": "https://www.marathishaadi.com/",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "arunthathiyarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "mangalashtak",
+		"Link": "https://www.mangalashtak.com/registration.php",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "aroramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "tumchaaamchajamla",
+		"Link": "https://www.tumchaaamchajamla.com/Register.aspx",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "aryavysyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "anuroopwiwaha",
+		"Link": "https://www.anuroopwiwaha.com/Registration.aspx",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "audichyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "pavitravivah",
+		"Link": "https://www.pavitravivah.com/",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "assamesematrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "anupamshaadi",
+		"Link": "anupamshaadi.com/",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "badagarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "anandmaratha",
+		"Link": "https://www.anandmaratha.com/enroll.php",
+		"Mother Tounge": "Marathi",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "baidyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "akshadamatrimony",
+		"Link": "http://www.akshadamatrimony.com/",
+		"Mother Tounge": "Marathi"
 	},
 	{
-		"SITE NAME": "baishnabmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marwadimatrimony",
+		"Link": "www.marwadimatrimony.com",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "baishyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marwadishaadi",
+		"Link": "https://www.marwadishaadi.com/",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "balijanaidumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marwarishaadicentre",
+		"Link": "http://www.marwarishaadicentre.com/",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "banikmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marwadirishtey",
+		"Link": "http://www.marwadirishtey.com/",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "baniyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marwariwedding",
+		"Link": "http://www.marwariwedding.com/register.php",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "banjaramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "imarriages",
+		"Link": "https://imarriages.com/rajasthan-matrimony",
+		"Mother Tounge": "Marwadi"
 	},
 	{
-		"SITE NAME": "baraimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "oriyamatrimony",
+		"Link": "www.oriyamatrimony.com",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "barendramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "odiashaadi",
+		"Link": "https://www.odiashaadi.com/",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "barimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "oriyashaadicentre",
+		"Link": "http://www.oriyashaadicentre.com/",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "barujibimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "odiamatch",
+		"Link": "http://www.odiamatch.com",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "bestamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "matrigo",
+		"Link": "https://www.matrigo.com/matrimonials/M22/Oriya-matrimonial",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "bhandarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhagyavivah",
+		"Link": "https://www.bhagyavivah.com/matrimonials/oriya-matrimonial",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "bhatiamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "lifepartner",
+		"Link": "https://www.lifepartner.in/matrimonial_sites/oriya_matrimonials/",
+		"Mother Tounge": "Oriya"
 	},
 	{
-		"SITE NAME": "bhatrajumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "punjabimatrimony",
+		"Link": "www.punjabimatrimony.com",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "bhattmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "punjabishaadi",
+		"Link": "https://www.punjabishaadi.com/",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "bhavasarkshatriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "royalmatrimonial",
+		"Link": "http://www.royalmatrimonial.com/",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "bhovimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "punjabiwedding",
+		"Link": "https://www.punjabiwedding.com/",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "bhumiharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "punjabimatrimonial",
+		"Link": "http://punjabimatrimonial.org/Registration.aspx",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "billavamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "pbmc",
+		"Link": "http://pbmc.in/",
+		"Mother Tounge": "Punjabi"
 	},
 	{
-		"SITE NAME": "boyermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhimatrimony",
+		"Link": "www.sindhimatrimony.com",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "brahmbhattmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhishaadi",
+		"Link": "https://www.sindhishaadi.in/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "brahminmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhiyog",
+		"Link": "http://sindhiyog.com/users/new_profile_register",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "bengalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhimatrimonyonline",
+		"Link": "http://www.sindhimatrimonyonline.com/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chambharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhimatrimony.org",
+		"Link": "http://sindhimatrimony.org.in/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chandravanshikaharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhrsindhimatrimony",
+		"Link": "http://www.bhrsindhimatrimony.com/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chasamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhishaadicentre",
+		"Link": "http://www.sindhishaadicentre.com/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chattadasrivaishnavamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jhulelalmatrimony",
+		"Link": "https://www.jhulelalmatrimony.com/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chaudarymatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jmdsindhishaadi",
+		"Link": "http://www.jmdsindhishaadi.com/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chaurasiamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhipanchayat",
+		"Link": "http://www.sindhipanchayat.in/sindhi_matrimony",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chettiyarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sindhi-matrimonial",
+		"Link": "http://sindhi-matrimonial.com/sindhimatrimonial/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chhetrimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "rishtekhojo",
+		"Link": "https://rishtekhojo.com/add-profile/",
+		"Mother Tounge": "Sindhi"
 	},
 	{
-		"SITE NAME": "chippolumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "tamilmatrimony",
+		"Link": "www.tamilmatrimony.com",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "ckpmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "tamilshaadi",
+		"Link": "https://www.tamilshaadi.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "coorgmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ssmatri",
+		"Link": "https://www.ssmatri.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "daivadnyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kalyanmatrimony",
+		"Link": "http://www.kalyanmatrimony.com/tamil-matrimonials-matrimony-brides-and-grooms",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "danuamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kalyanavaibogam",
+		"Link": "https://www.kalyanavaibogam.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "deshasthamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "multimatrimony",
+		"Link": "https://www.multimatrimony.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "devadigamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devimatrimony",
+		"Link": "https://www.devimatrimony.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "devendrarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "voctamilmatrimony",
+		"Link": "http://www.voctamilmatrimony.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "devangamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kanyakumarimatrimony",
+		"Link": "http://www.kanyakumarimatrimony.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "devangkoshthimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "vetrimatrimony",
+		"Link": "http://vetrimatrimony.net.in/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "dhangharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "vetrimatrimony",
+		"Link": "https://www.vetrimatrimony.com/freeregister.php",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "dheevaramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sivamatrimony",
+		"Link": "https://sivamatrimony.com/",
+		"Mother Tounge": "Tamil"
 	},
 	{
-		"SITE NAME": "dhimanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "telugumatrimony",
+		"Link": "www.telugumatrimony.com",
+		"Mother Tounge": "Telugu"
 	},
 	{
-		"SITE NAME": "dhobamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "telugushaadi",
+		"Link": "https://www.telugushaadi.com/",
+		"Mother Tounge": "Telugu"
 	},
 	{
-		"SITE NAME": "dhobimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "telugumatrimony.org",
+		"Link": "http://www.telugumatrimony.org/",
+		"Mother Tounge": "Telugu"
 	},
 	{
-		"SITE NAME": "dravidamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "eenadupellipandiri",
+		"Link": "https://www.eenadupellipandiri.net/",
+		"Mother Tounge": "Telugu"
 	},
 	{
-		"SITE NAME": "dumalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "pellisandadi",
+		"Link": "http://www.pellisandadi.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "dusadhmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jeelakarrabellam",
+		"Link": "https://jeelakarrabellam.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "edigamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kammamatrimonial",
+		"Link": "http://www.kammamatrimonial.com/register.php",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "ezhavamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kammamatrimonial",
+		"Link": "http://www.kammamatrimonial.com/register.php",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "ezhuthachanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kammavarkalyanamalai",
+		"Link": "http://www.kammavarkalyanamalai.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "gabitmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "kmmatrimony",
+		"Link": "https://www.kmmatrimony.com/default.aspx",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "gandlamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "subhamastu",
+		"Link": "https://www.subhamastu.co/",
+		"Mother Tounge": "Telugu",
+		"Religion": ""
 	},
 	{
-		"SITE NAME": "ganigamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christiantelugumatrimony",
+		"Link": "http://www.christiantelugumatrimony.in/",
+		"Mother Tounge": "Telugu",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "garhwalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "urdumatrimony",
+		"Link": "www.urdumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "gaurmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "urdushaadi",
+		"Link": "https://www.urdushaadi.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "gavaranaidumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "urdunikah",
+		"Link": "http://www.urdunikah.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "gawalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "qiran",
+		"Link": "https://www.qiran.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "ghisadimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "siasatmatri",
+		"Link": "https://www.siasatmatri.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "ghumarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "islamirishte",
+		"Link": "https://islamirishte.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "goalamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslimmatrimony",
+		"Link": "www.muslimmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "gomantakmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "nikah",
+		"Link": "https://nikah.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "gondhalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslimshaadi",
+		"Link": "https://www.muslimshaadi.in/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "goudmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "nikahinkerala",
+		"Link": "http://www.nikahinkerala.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "goundarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "pakistanimatrimony",
+		"Link": "https://www.pakistanimatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gowdamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "purematrimony",
+		"Link": "https://purematrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": "Yes"
 	},
 	{
-		"SITE NAME": "gramanimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "waytonikah",
+		"Link": "https://www.waytonikah.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gudiamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslim.sangam",
+		"Link": "https://muslim.sangam.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gujjarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sunnimuslimmatrimony",
+		"Link": "http://www.sunnimuslimmatrimony.com/bharatmatchpoint_registration1.php",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "guptamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "mmatrimony",
+		"Link": "http://mmatrimony.ml/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "guptanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muftnikah",
+		"Link": "http://www.muftnikahcom.qualitysteelsmfg.com/register.php",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "guravmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslimmatrimonysites",
+		"Link": "http://www.muslimmatrimonysites.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gurjarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "easynikah",
+		"Link": "https://www.easynikah.in/register",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gurukkalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslimlifepartner",
+		"Link": "http://www.muslimlifepartner.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "gujaratimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "attarmaniyarjamat",
+		"Link": "http://www.attarmaniyarjamat.com/matrimonial.html",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "haluamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "muslima",
+		"Link": "https://www.muslima.com/",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "havyakamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "marryasunni",
+		"Link": "https://www.marryasunni.com/register",
+		"Mother Tounge": "",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "hugarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devimuslim",
+		"Link": "https://www.devimuslim.com/",
+		"Mother Tounge": "Tamil",
+		"Religion": "Muslim",
+		"Community": "",
+		"Special Catogary": "",
+		"Affiliate": ""
 	},
 	{
-		"SITE NAME": "hoysalamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ummbonline",
+		"Link": "http://www.ummbonline.com/registerform.php",
+		"Mother Tounge": "Gujarati",
+		"Religion": "Muslim"
 	},
 	{
-		"SITE NAME": "hindimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "parsimatrimony",
+		"Link": "www.parsimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "intercastematrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "parsishaadi",
+		"Link": "https://www.parsishaadi.com/",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "iranimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "theparsimatch",
+		"Link": "http://theparsimatch.com/",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "iyengarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "parsi.matrimoniall",
+		"Link": "http://parsi.matrimoniall.com/",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "iyermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chaalokaajkariye",
+		"Link": "http://www.chaalokaajkariye.com/OnlineApplication.asp",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "jaalarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "parsizoroastrianism",
+		"Link": "http://parsizoroastrianism.com/Matrimonial/",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "jaiswalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "zoroastrianonline",
+		"Link": "http://zoroastrianonline.com/zoro/",
+		"Mother Tounge": "",
+		"Religion": "Parsi"
 	},
 	{
-		"SITE NAME": "jandramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christianmatrimony",
+		"Link": "www.christianmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jangammatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chavaramatrimony",
+		"Link": "https://www.chavaramatrimony.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jangidmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "yehovayirehmatrimony",
+		"Link": "https://www.yehovayirehmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jatmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "angelmatrimony",
+		"Link": "https://www.angelmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jatavmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "aradanamatrimony",
+		"Link": "http://www.aradanamatrimony.com/jsp/index.jsp",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jhaduamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christianmatrimonysites",
+		"Link": "http://www.christianmatrimonysites.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "jogimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "indiachristianmatrimony",
+		"Link": "http://indiachristianmatrimony.com/join.php",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kacharamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "rcmatrimonial",
+		"Link": "http://www.rcmatrimonial.org/RCM/home.php",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kadavapatelmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christianwedlock",
+		"Link": "http://www.christianwedlock.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kaibartamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devakirubaichristianmatrimon",
+		"Link": "http://www.devakirubaichristianmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kalarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christianghettivido",
+		"Link": "https://www.christianghettivido.com/register.php",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kalingamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "brightchristianmatrimony",
+		"Link": "http://www.brightchristianmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kalingavysyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "southindianchristianmatrimony",
+		"Link": "http://southindianchristianmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kalitamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christiantelugumatrimony",
+		"Link": "http://www.christiantelugumatrimony.in/",
+		"Mother Tounge": "Telugu",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kalwarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "tdtachristianmatrimony",
+		"Link": "https://www.tdtachristianmatrimony.com/",
+		"Mother Tounge": "Tamil",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kambojmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "christianthirumanam.com",
+		"Link": "http://christianthirumanam.com/FreeRegistration.aspx",
+		"Mother Tounge": "Tamil",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kammanaidumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ytmatrimony",
+		"Link": "http://www.ytmatrimony.com/",
+		"Mother Tounge": "Tamil",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kansarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bethlehemmatrimonial",
+		"Link": "https://www.bethlehemmatrimonial.com/",
+		"Mother Tounge": "Malayalam",
+		"Religion": "Christian"
 	},
 	{
-		"SITE NAME": "kanyakubjmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikhmatrimony",
+		"Link": "www.sikhmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "kapunaidumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "anandkaaj",
+		"Link": "www.anandkaaj.com/",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "karanamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikhshaadi",
+		"Link": "https://www.sikhshaadi.in/",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "karhadematrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikhwedding",
+		"Link": "www.sikhwedding.com/",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "karmakarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikhmatrimonials",
+		"Link": "http://www.sikhmatrimonials.com/",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "karuneegarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "gurmat",
+		"Link": "https://www.gurmat.com/",
+		"Mother Tounge": "",
+		"Religion": "Sikh"
 	},
 	{
-		"SITE NAME": "kasarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "gursikhclub",
+		"Link": "http://www.gursikhclub.com/gursikhmarriagebureau/register2.php",
+		"Mother Tounge": "",
+		"Religion": "Sikh",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kashyapmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikh.company",
+		"Link": "http://www.sikh.company/",
+		"Mother Tounge": "",
+		"Religion": "Sikh",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "katiyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "sikhweddingsite",
+		"Link": "https://www.sikhweddingsite.com/",
+		"Mother Tounge": "",
+		"Religion": "Sikh",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kayasthamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jainmatrimony",
+		"Link": "www.jainmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "khandayatmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "madhurmilan",
+		"Link": "https://www.madhurmilan.in/main/registration.php",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "khandelwalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jain2jain",
+		"Link": "https://www.jain2jain.org/user/main.aspx",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kharwarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jain4jain",
+		"Link": "https://www.jain4jain.com/",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "khatrimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "shwetamberjain",
+		"Link": "http://shwetamber.jain.lifepartner.in/",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "koirimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jainvarvadhu",
+		"Link": "http://jainvarvadhu.com/",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kokanasthamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "jainwedding",
+		"Link": "http://www.jainwedding.co.in/",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kokanasthamarathamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "humadjainmatrimony",
+		"Link": "https://www.humadjainmatrimony.com/Register",
+		"Mother Tounge": "",
+		"Religion": "Jain",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kolimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "buddhistmatrimony",
+		"Link": "www.buddhistmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "konguvelalagoundermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "samyakmatrimony",
+		"Link": "https://www.samyakmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "konkanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bodhimatri",
+		"Link": "http://www.bodhimatri.com/member_registration.php",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "korimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "triratnamatrimony",
+		"Link": "http://triratnamatrimony.com/profile/register/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kotamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "buddhistshaadi",
+		"Link": "https://www.buddhistshaadi.in/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kshatriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "eparinay",
+		"Link": "http://www.eparinay.com/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kudumbimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bouddhamarriage",
+		"Link": "http://www.bouddhamarriage.com/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kulalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "tathagatmatrimony",
+		"Link": "http://www.tathagatmatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kulalarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "buddhistvarvadhu",
+		"Link": "http://www.buddhistvarvadhu.com/freshregister.php",
+		"Mother Tounge": "",
+		"Religion": "Buddhist",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kulinmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "CommunityMatrimony.com",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": ""
 	},
 	{
-		"SITE NAME": "kulitamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "addharmimatrimony",
+		"Link": "www.addharmimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "addharmi"
 	},
 	{
-		"SITE NAME": "kumawatmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "adidravidarmatrimony",
+		"Link": "www.adidravidarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "adidravidar"
 	},
 	{
-		"SITE NAME": "kumbhakarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "agarwalmatrimony",
+		"Link": "www.agarwalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "agarwal"
 	},
 	{
-		"SITE NAME": "kumbharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ashoktibrewala",
+		"Link": "https://www.ashoktibrewala.in/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "agarwal"
 	},
 	{
-		"SITE NAME": "kumharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "agrimatrimony",
+		"Link": "www.agrimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "agri"
 	},
 	{
-		"SITE NAME": "kummarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ahommatrimony",
+		"Link": "www.ahommatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ahom"
 	},
 	{
-		"SITE NAME": "kumoanimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ambalavasimatrimony",
+		"Link": "www.ambalavasimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ambalavasi"
 	},
 	{
-		"SITE NAME": "kunbimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "anavilmatrimony",
+		"Link": "www.anavilmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "anavil"
 	},
 	{
-		"SITE NAME": "kuravanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "arekaticamatrimony",
+		"Link": "www.arekaticamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "arekatica"
 	},
 	{
-		"SITE NAME": "kurmimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "arunthathiyarmatrimony",
+		"Link": "www.arunthathiyarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "arunthathiyar"
 	},
 	{
-		"SITE NAME": "kurmikshatriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "aroramatrimony",
+		"Link": "www.aroramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "arora"
 	},
 	{
-		"SITE NAME": "kurubamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "aryavysyamatrimony",
+		"Link": "www.aryavysyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "aryavysya"
 	},
 	{
-		"SITE NAME": "kuruhinashettymatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "audichyamatrimony",
+		"Link": "www.audichyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "audichya"
 	},
 	{
-		"SITE NAME": "kurumbarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "badagarmatrimony",
+		"Link": "www.badagarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "badagar"
 	},
 	{
-		"SITE NAME": "kannadamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "baidyamatrimony",
+		"Link": "www.baidyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "baidya"
 	},
 	{
-		"SITE NAME": "keralamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "baishnabmatrimony",
+		"Link": "www.baishnabmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "baishnab"
 	},
 	{
-		"SITE NAME": "keralachristianmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "baishyamatrimony",
+		"Link": "www.baishyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "baishya"
 	},
 	{
-		"SITE NAME": "lambanimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "balijanaidumatrimony",
+		"Link": "www.balijanaidumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "balijanaidu"
 	},
 	{
-		"SITE NAME": "levapatelmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "banikmatrimony",
+		"Link": "www.banikmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "banik"
 	},
 	{
-		"SITE NAME": "levapatilmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "baniyamatrimony",
+		"Link": "www.baniyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "baniya"
 	},
 	{
-		"SITE NAME": "lingayathmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "banjaramatrimony",
+		"Link": "www.banjaramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "banjara"
 	},
 	{
-		"SITE NAME": "lodhirajputmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "baraimatrimony",
+		"Link": "www.baraimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "barai"
 	},
 	{
-		"SITE NAME": "lohanamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "barendramatrimony",
+		"Link": "www.barendramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "barendra"
 	},
 	{
-		"SITE NAME": "lubanamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "barimatrimony",
+		"Link": "www.barimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bari"
 	},
 	{
-		"SITE NAME": "madhvamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "barujibimatrimony",
+		"Link": "www.barujibimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "barujibi"
 	},
 	{
-		"SITE NAME": "madigamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bestamatrimony",
+		"Link": "www.bestamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "besta"
 	},
 	{
-		"SITE NAME": "mahajanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhandarimatrimony",
+		"Link": "www.bhandarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhandari"
 	},
 	{
-		"SITE NAME": "maharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhatiamatrimony",
+		"Link": "www.bhatiamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhatia"
 	},
 	{
-		"SITE NAME": "mahendramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhatrajumatrimony",
+		"Link": "www.bhatrajumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhatraju"
 	},
 	{
-		"SITE NAME": "maheshwarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhattmatrimony",
+		"Link": "www.bhattmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhatt"
 	},
 	{
-		"SITE NAME": "mahishyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhavasarkshatriyamatrimony",
+		"Link": "www.bhavasarkshatriyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhavasarkshatriya"
 	},
 	{
-		"SITE NAME": "maithilmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhovimatrimony",
+		"Link": "www.bhovimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhovi"
 	},
 	{
-		"SITE NAME": "majabimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "bhumiharmatrimony",
+		"Link": "www.bhumiharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "bhumihar"
 	},
 	{
-		"SITE NAME": "malamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "billavamatrimony",
+		"Link": "www.billavamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "billava"
 	},
 	{
-		"SITE NAME": "malimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "boyermatrimony",
+		"Link": "www.boyermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "boyer"
 	},
 	{
-		"SITE NAME": "mallamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "brahmbhattmatrimony",
+		"Link": "www.brahmbhattmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "brahmbhatt"
 	},
 	{
-		"SITE NAME": "mangaloreanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "brahminmatrimony",
+		"Link": "www.brahminmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "brahmin"
 	},
 	{
-		"SITE NAME": "manipurimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chambharmatrimony",
+		"Link": "www.chambharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chambhar"
 	},
 	{
-		"SITE NAME": "mapilamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chandravanshikaharmatrimony",
+		"Link": "www.chandravanshikaharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chandravanshikahar"
 	},
 	{
-		"SITE NAME": "marathamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chasamatrimony",
+		"Link": "www.chasamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chasa"
 	},
 	{
-		"SITE NAME": "maruthuvarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chattadasrivaishnavamatrimony",
+		"Link": "www.chattadasrivaishnavamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chattadasrivaishnava"
 	},
 	{
-		"SITE NAME": "matangmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chaudarymatrimony",
+		"Link": "www.chaudarymatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chaudary"
 	},
 	{
-		"SITE NAME": "mathurmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chaurasiamatrimony",
+		"Link": "www.chaurasiamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chaurasia"
 	},
 	{
-		"SITE NAME": "meenamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chettiyarmatrimony",
+		"Link": "www.chettiyarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chettiyar"
 	},
 	{
-		"SITE NAME": "meenavarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chhetrimatrimony",
+		"Link": "www.chhetrimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chhetri"
 	},
 	{
-		"SITE NAME": "mehramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "chippolumatrimony",
+		"Link": "www.chippolumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "chippolu"
 	},
 	{
-		"SITE NAME": "merudarjimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ckpmatrimony",
+		"Link": "www.ckpmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ckp"
 	},
 	{
-		"SITE NAME": "mochimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "coorgmatrimony",
+		"Link": "www.coorgmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "coorg"
 	},
 	{
-		"SITE NAME": "modakmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "daivadnyamatrimony",
+		"Link": "www.daivadnyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "daivadnya"
 	},
 	{
-		"SITE NAME": "modhmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "danuamatrimony",
+		"Link": "www.danuamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "danua"
 	},
 	{
-		"SITE NAME": "mogaveeramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "deshasthamatrimony",
+		"Link": "www.deshasthamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "deshastha"
 	},
 	{
-		"SITE NAME": "mudaliyarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devadigamatrimony",
+		"Link": "www.devadigamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "devadiga"
 	},
 	{
-		"SITE NAME": "mudirajmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devendrarmatrimony",
+		"Link": "www.devendrarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "devendrar"
 	},
 	{
-		"SITE NAME": "munnurukapumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devangamatrimony",
+		"Link": "www.devangamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "devanga"
 	},
 	{
-		"SITE NAME": "muthurajamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "devangkoshthimatrimony",
+		"Link": "www.devangkoshthimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "devangkoshthi"
 	},
 	{
-		"SITE NAME": "marathimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dhangharmatrimony",
+		"Link": "www.dhangharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dhanghar"
 	},
 	{
-		"SITE NAME": "marwadimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dheevaramatrimony",
+		"Link": "www.dheevaramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dheevara"
 	},
 	{
-		"SITE NAME": "naagavamsammatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dhimanmatrimony",
+		"Link": "www.dhimanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dhiman"
 	},
 	{
-		"SITE NAME": "nadarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dhobamatrimony",
+		"Link": "www.dhobamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dhoba"
 	},
 	{
-		"SITE NAME": "nagarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dhobimatrimony",
+		"Link": "www.dhobimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dhobi"
 	},
 	{
-		"SITE NAME": "nagaralumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dravidamatrimony",
+		"Link": "www.dravidamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dravida"
 	},
 	{
-		"SITE NAME": "naimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dumalmatrimony",
+		"Link": "www.dumalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dumal"
 	},
 	{
-		"SITE NAME": "naickermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "dusadhmatrimony",
+		"Link": "www.dusadhmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "dusadh"
 	},
 	{
-		"SITE NAME": "naikmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "edigamatrimony",
+		"Link": "www.edigamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ediga"
 	},
 	{
-		"SITE NAME": "nairmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ezhavamatrimony",
+		"Link": "www.ezhavamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ezhava"
 	},
 	{
-		"SITE NAME": "nambiarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "ezhuthachanmatrimony",
+		"Link": "www.ezhuthachanmatrimony.com",
+		"Mother Tounge": "Malayalam",
+		"Religion": "",
+		"Community": "ezhuthachan"
 	},
 	{
-		"SITE NAME": "namboodirimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Gujrathi",
-		"Free": "No"
+		"WebSiteName": "gabitmatrimony",
+		"Link": "www.gabitmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gabit"
 	},
 	{
-		"SITE NAME": "namosudramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gandlamatrimony",
+		"Link": "www.gandlamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gandla"
 	},
 	{
-		"SITE NAME": "napitmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "ganigamatrimony",
+		"Link": "www.ganigamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ganiga"
 	},
 	{
-		"SITE NAME": "nayakamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "garhwalmatrimony",
+		"Link": "www.garhwalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "garhwal"
 	},
 	{
-		"SITE NAME": "neelimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gaurmatrimony",
+		"Link": "www.gaurmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gaur"
 	},
 	{
-		"SITE NAME": "nepalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gavaranaidumatrimony",
+		"Link": "www.gavaranaidumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gavaranaidu"
 	},
 	{
-		"SITE NAME": "nhavimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gawalimatrimony",
+		"Link": "www.gawalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gawali"
 	},
 	{
-		"SITE NAME": "niyogimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "ghisadimatrimony",
+		"Link": "www.ghisadimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ghisadi"
 	},
 	{
-		"SITE NAME": "oswalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "ghumarmatrimony",
+		"Link": "www.ghumarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ghumar"
 	},
 	{
-		"SITE NAME": "otarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goalamatrimony",
+		"Link": "www.goalamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "goala"
 	},
 	{
-		"SITE NAME": "oriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gomantakmatrimony",
+		"Link": "www.gomantakmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gomantak"
 	},
 	{
-		"SITE NAME": "padmasalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gondhalimatrimony",
+		"Link": "www.gondhalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gondhali"
 	},
 	{
-		"SITE NAME": "palmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goudmatrimony",
+		"Link": "www.goudmatrimony.com",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "goud"
 	},
 	{
-		"SITE NAME": "panchalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goudtelugumatrimony",
+		"Link": "http://www.goudtelugumatrimony.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "goud"
 	},
 	{
-		"SITE NAME": "pandamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goudmarriage",
+		"Link": "http://goudmarriage.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "goud"
 	},
 	{
-		"SITE NAME": "panditmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goudsmatrimonial",
+		"Link": "http://www.goudsmatrimonial.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "goud"
 	},
 	{
-		"SITE NAME": "panickermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "goundarmatrimony",
+		"Link": "www.goundarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "goundar"
 	},
 	{
-		"SITE NAME": "parkavakulammatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gowdamatrimony",
+		"Link": "www.gowdamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gowda"
 	},
 	{
-		"SITE NAME": "partrajmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gramanimatrimony",
+		"Link": "www.gramanimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gramani"
 	},
 	{
-		"SITE NAME": "pasimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gudiamatrimony",
+		"Link": "www.gudiamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gudia"
 	},
 	{
-		"SITE NAME": "patelmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gujjarmatrimony",
+		"Link": "www.gujjarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gujjar"
 	},
 	{
-		"SITE NAME": "patnaickmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "guptamatrimony",
+		"Link": "www.guptamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gupta"
 	},
 	{
-		"SITE NAME": "patramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "guptanmatrimony",
+		"Link": "www.guptanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "guptan"
 	},
 	{
-		"SITE NAME": "perikamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "guravmatrimony",
+		"Link": "www.guravmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gurav"
 	},
 	{
-		"SITE NAME": "pillaimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gurjarmatrimony",
+		"Link": "www.gurjarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gurjar"
 	},
 	{
-		"SITE NAME": "porwalmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "gurukkalmatrimony",
+		"Link": "www.gurukkalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "gurukkal"
 	},
 	{
-		"SITE NAME": "prajapatimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "haluamatrimony",
+		"Link": "www.haluamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "halua"
 	},
 	{
-		"SITE NAME": "pushkarnamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "havyakamatrimony",
+		"Link": "www.havyakamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "havyaka"
 	},
 	{
-		"SITE NAME": "parsimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "hugarmatrimony",
+		"Link": "www.hugarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "hugar"
 	},
 	{
-		"SITE NAME": "punjabimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "hoysalamatrimony",
+		"Link": "www.hoysalamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "hoysala"
 	},
 	{
-		"SITE NAME": "raigarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "intercastematrimony",
+		"Link": "www.intercastematrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "intercaste"
 	},
 	{
-		"SITE NAME": "rajakamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "iranimatrimony",
+		"Link": "www.iranimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "irani"
 	},
 	{
-		"SITE NAME": "rajastanimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "iyengarmatrimony",
+		"Link": "www.iyengarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "iyengar"
 	},
 	{
-		"SITE NAME": "rajbonshimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "iyermatrimony",
+		"Link": "www.iyermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "iyer"
 	},
 	{
-		"SITE NAME": "rajputmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jaalarimatrimony",
+		"Link": "www.jaalarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jaalari"
 	},
 	{
-		"SITE NAME": "ramdasiamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jaiswalmatrimony",
+		"Link": "www.jaiswalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jaiswal"
 	},
 	{
-		"SITE NAME": "ramgariahmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jandramatrimony",
+		"Link": "www.jandramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jandra"
 	},
 	{
-		"SITE NAME": "rarhimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jangammatrimony",
+		"Link": "www.jangammatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jangam"
 	},
 	{
-		"SITE NAME": "rawatmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jangidmatrimony",
+		"Link": "www.jangidmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jangid"
 	},
 	{
-		"SITE NAME": "reddymatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jatmatrimony",
+		"Link": "www.jatmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jat"
 	},
 	{
-		"SITE NAME": "rellimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jatavmatrimony",
+		"Link": "www.jatavmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jatav"
 	},
 	{
-		"SITE NAME": "rigvedimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jhaduamatrimony",
+		"Link": "www.jhaduamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jhadua"
 	},
 	{
-		"SITE NAME": "rudrajmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "jogimatrimony",
+		"Link": "www.jogimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "jogi"
 	},
 	{
-		"SITE NAME": "sadgopematrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kacharamatrimony",
+		"Link": "www.kacharamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kachara"
 	},
 	{
-		"SITE NAME": "sahamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kadavapatelmatrimony",
+		"Link": "www.kadavapatelmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kadavapatel"
 	},
 	{
-		"SITE NAME": "sahumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kaibartamatrimony",
+		"Link": "www.kaibartamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kaibarta"
 	},
 	{
-		"SITE NAME": "sainimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kalarmatrimony",
+		"Link": "www.kalarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kalar"
 	},
 	{
-		"SITE NAME": "sakaldwipimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kalingamatrimony",
+		"Link": "www.kalingamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kalinga"
 	},
 	{
-		"SITE NAME": "saliyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kalingavysyamatrimony",
+		"Link": "www.kalingavysyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kalingavysya"
 	},
 	{
-		"SITE NAME": "sanadyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kalitamatrimony",
+		"Link": "www.kalitamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kalita"
 	},
 	{
-		"SITE NAME": "sanketimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kalwarmatrimony",
+		"Link": "www.kalwarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kalwar"
 	},
 	{
-		"SITE NAME": "savjimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kambojmatrimony",
+		"Link": "www.kambojmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kamboj"
 	},
 	{
-		"SITE NAME": "saraswatmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kammanaidumatrimony",
+		"Link": "www.kammanaidumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kammanaidu"
 	},
 	{
-		"SITE NAME": "saryuparinmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kansarimatrimony",
+		"Link": "www.kansarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kansari"
 	},
 	{
-		"SITE NAME": "scmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kanyakubjmatrimony",
+		"Link": "www.kanyakubjmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kanyakubj"
 	},
 	{
-		"SITE NAME": "senaithalaivarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kapunaidumatrimony",
+		"Link": "www.kapunaidumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kapunaidu"
 	},
 	{
-		"SITE NAME": "sengunthamudaliyarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "karanamatrimony",
+		"Link": "www.karanamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "karana"
 	},
 	{
-		"SITE NAME": "settibalijamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "karhadematrimony",
+		"Link": "www.karhadematrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "karhade"
 	},
 	{
-		"SITE NAME": "shettymatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "karmakarmatrimony",
+		"Link": "www.karmakarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "karmakar"
 	},
 	{
-		"SITE NAME": "shimpimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "karuneegarmatrimony",
+		"Link": "www.karuneegarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "karuneegar"
 	},
 	{
-		"SITE NAME": "shivhallimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kasarmatrimony",
+		"Link": "www.kasarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kasar"
 	},
 	{
-		"SITE NAME": "shrimalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kashyapmatrimony",
+		"Link": "www.kashyapmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kashyap"
 	},
 	{
-		"SITE NAME": "skpmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "katiyamatrimony",
+		"Link": "www.katiyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "katiya"
 	},
 	{
-		"SITE NAME": "smarthamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kayasthamatrimony",
+		"Link": "www.kayasthamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kayastha"
 	},
 	{
-		"SITE NAME": "sonarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "khandayatmatrimony",
+		"Link": "www.khandayatmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "khandayat"
 	},
 	{
-		"SITE NAME": "sourashtramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "khandelwalmatrimony",
+		"Link": "www.khandelwalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "khandelwal"
 	},
+  {
+    "WebSiteName": "kharwarmatrimony",
+    "Link": "www.kharwarmatrimony.com",
+    "Mother Tounge": "",
+    "Religion": "",
+    "Community": "kharwar"
+  },
 	{
-		"SITE NAME": "sozhiyavellalarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "khatrimatrimony",
+		"Link": "www.khatrimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "khatri"
 	},
 	{
-		"SITE NAME": "stmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "koirimatrimony",
+		"Link": "www.koirimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "koiri"
 	},
 	{
-		"SITE NAME": "stanikamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kokanasthamatrimony",
+		"Link": "www.kokanasthamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kokanastha"
 	},
 	{
-		"SITE NAME": "sugalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kokanasthamarathamatrimony",
+		"Link": "www.kokanasthamarathamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kokanasthamaratha"
 	},
 	{
-		"SITE NAME": "sunarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kolimatrimony",
+		"Link": "www.kolimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "koli"
 	},
 	{
-		"SITE NAME": "sundhimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "konguvelalagoundermatrimony",
+		"Link": "www.konguvelalagoundermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "konguvelalagounder"
 	},
 	{
-		"SITE NAME": "sutharmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "konkanmatrimony",
+		"Link": "www.konkanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "konkan"
 	},
 	{
-		"SITE NAME": "swakulasalimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "korimatrimony",
+		"Link": "www.korimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kori"
 	},
 	{
-		"SITE NAME": "sindhimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kotamatrimony",
+		"Link": "www.kotamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kota"
 	},
 	{
-		"SITE NAME": "tambolimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kshatriyamatrimony",
+		"Link": "www.kshatriyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kshatriya"
 	},
 	{
-		"SITE NAME": "tantimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kudumbimatrimony",
+		"Link": "www.kudumbimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kudumbi"
 	},
 	{
-		"SITE NAME": "tantubaimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kulalmatrimony",
+		"Link": "www.kulalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kulal"
 	},
 	{
-		"SITE NAME": "telagamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kulalarmatrimony",
+		"Link": "www.kulalarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kulalar"
 	},
 	{
-		"SITE NAME": "telimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kulinmatrimony",
+		"Link": "www.kulinmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kulin"
 	},
 	{
-		"SITE NAME": "thakkarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kulitamatrimony",
+		"Link": "www.kulitamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kulita"
 	},
 	{
-		"SITE NAME": "thakurmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kumawatmatrimony",
+		"Link": "www.kumawatmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kumawat"
 	},
 	{
-		"SITE NAME": "thevarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kumbhakarmatrimony",
+		"Link": "www.kumbhakarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kumbhakar"
 	},
 	{
-		"SITE NAME": "thigalamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kumbharmatrimony",
+		"Link": "www.kumbharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kumbhar"
 	},
 	{
-		"SITE NAME": "thiyyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kumharmatrimony",
+		"Link": "www.kumharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kumhar"
 	},
 	{
-		"SITE NAME": "tilimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kummarimatrimony",
+		"Link": "www.kummarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kummari"
 	},
 	{
-		"SITE NAME": "togatamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kumoanimatrimony",
+		"Link": "www.kumoanimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kumoani"
 	},
 	{
-		"SITE NAME": "tonkkshatriyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kunbimatrimony",
+		"Link": "www.kunbimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kunbi"
 	},
 	{
-		"SITE NAME": "turupukapumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kuravanmatrimony",
+		"Link": "www.kuravanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kuravan"
 	},
 	{
-		"SITE NAME": "tyagimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kurmimatrimony",
+		"Link": "www.kurmimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kurmi"
 	},
 	{
-		"SITE NAME": "tamilmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kurmikshatriyamatrimony",
+		"Link": "www.kurmikshatriyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kurmikshatriya"
 	},
 	{
-		"SITE NAME": "telugumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kurubamatrimony",
+		"Link": "www.kurubamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kuruba"
 	},
 	{
-		"SITE NAME": "upparamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kuruhinashettymatrimony",
+		"Link": "www.kuruhinashettymatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kuruhinashetty"
 	},
 	{
-		"SITE NAME": "ursmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "kurumbarmatrimony",
+		"Link": "www.kurumbarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "kurumbar"
 	},
 	{
-		"SITE NAME": "urdumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "keralachristianmatrimony",
+		"Link": "www.keralachristianmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "keralachristian"
 	},
 	{
-		"SITE NAME": "vadabalijamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "lambanimatrimony",
+		"Link": "www.lambanimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "lambani"
 	},
 	{
-		"SITE NAME": "vadderamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "levapatelmatrimony",
+		"Link": "www.levapatelmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "levapatel"
 	},
 	{
-		"SITE NAME": "vaidikimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "levapatilmatrimony",
+		"Link": "www.levapatilmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "levapatil"
 	},
 	{
-		"SITE NAME": "vaishmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "lingayathmatrimony",
+		"Link": "www.lingayathmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "lingayath"
 	},
 	{
-		"SITE NAME": "vaishnavmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "lodhirajputmatrimony",
+		"Link": "www.lodhirajputmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "lodhirajput"
 	},
 	{
-		"SITE NAME": "vaishnavamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "lohanamatrimony",
+		"Link": "www.lohanamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "lohana"
 	},
 	{
-		"SITE NAME": "vaishyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "lubanamatrimony",
+		"Link": "www.lubanamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "lubana"
 	},
 	{
-		"SITE NAME": "vaishyavanimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "madhvamatrimony",
+		"Link": "www.madhvamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "madhva"
 	},
 	{
-		"SITE NAME": "valluvanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "madigamatrimony",
+		"Link": "www.madigamatrimony.com",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "madiga"
 	},
 	{
-		"SITE NAME": "valmikimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "madigatelugumatrimony",
+		"Link": "http://www.madigatelugumatrimony.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "madiga"
 	},
 	{
-		"SITE NAME": "vaniamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mahajanmatrimony",
+		"Link": "www.mahajanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mahajan"
 	},
 	{
-		"SITE NAME": "vaniyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "maharmatrimony",
+		"Link": "www.maharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mahar"
 	},
 	{
-		"SITE NAME": "vanjaramatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mahendramatrimony",
+		"Link": "www.mahendramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mahendra"
 	},
 	{
-		"SITE NAME": "vanjarimatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "maheshwarimatrimony",
+		"Link": "www.maheshwarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "maheshwari"
 	},
 	{
-		"SITE NAME": "vankarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "maheshwari",
+		"Link": "https://www.maheshwari.org/user/main.aspx",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "maheshwari"
 	},
 	{
-		"SITE NAME": "vannarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mahishyamatrimony",
+		"Link": "www.mahishyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mahishya"
 	},
 	{
-		"SITE NAME": "vanniyarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "maithilmatrimony",
+		"Link": "www.maithilmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "maithil"
 	},
 	{
-		"SITE NAME": "veerasaivammatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "majabimatrimony",
+		"Link": "www.majabimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "majabi"
 	},
 	{
-		"SITE NAME": "velaanmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "malamatrimony",
+		"Link": "www.malamatrimony.com",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "mala"
 	},
 	{
-		"SITE NAME": "velanadumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "malatelugumatrimony",
+		"Link": "http://www.malatelugumatrimony.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "mala"
 	},
 	{
-		"SITE NAME": "vellalarmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "malimatrimony",
+		"Link": "www.malimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mali"
 	},
 	{
-		"SITE NAME": "velamanaidumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mallamatrimony",
+		"Link": "www.mallamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "malla"
 	},
 	{
-		"SITE NAME": "veluthedathunairmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mangaloreanmatrimony",
+		"Link": "www.mangaloreanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mangalorean"
 	},
 	{
-		"SITE NAME": "vettuvagoundermatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "manipurimatrimony",
+		"Link": "www.manipurimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "manipuri"
 	},
 	{
-		"SITE NAME": "vilakkithalanairmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mapilamatrimony",
+		"Link": "www.mapilamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mapila"
 	},
 	{
-		"SITE NAME": "vishwakarmamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "marathamatrimony",
+		"Link": "www.marathamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "maratha"
 	},
 	{
-		"SITE NAME": "viswabrahminmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "maruthuvarmatrimony",
+		"Link": "www.maruthuvarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "maruthuvar"
 	},
 	{
-		"SITE NAME": "vokkaligamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "matangmatrimony",
+		"Link": "www.matangmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "matang"
 	},
 	{
-		"SITE NAME": "vyasmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mathurmatrimony",
+		"Link": "www.mathurmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mathur"
 	},
 	{
-		"SITE NAME": "vysyamatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "meenamatrimony",
+		"Link": "www.meenamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "meena"
 	},
 	{
-		"SITE NAME": "yadavmatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "meenavarmatrimony",
+		"Link": "www.meenavarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "meenavar"
 	},
 	{
-		"SITE NAME": "yellapumatrimony",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mehramatrimony",
+		"Link": "www.mehramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mehra"
 	},
 	{
-		"SITE NAME": "40plusmatrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "merudarjimatrimony",
+		"Link": "www.merudarjimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "merudarji"
 	},
 	{
-		"SITE NAME": "abilitymatrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mochimatrimony",
+		"Link": "www.mochimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mochi"
 	},
 	{
-		"SITE NAME": "anycastematrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "modakmatrimony",
+		"Link": "www.modakmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "modak"
 	},
 	{
-		"SITE NAME": "divorceematrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "modhmatrimony",
+		"Link": "www.modhmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "modh"
 	},
 	{
-		"SITE NAME": "manglikmatrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mogaveeramatrimony",
+		"Link": "www.mogaveeramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mogaveera"
 	},
 	{
-		"SITE NAME": "defencematrimony.com",
-		"LINK": "www.bharatmatrimony.com",
-		"Community": "Muslim",
-		"Free": "No"
+		"WebSiteName": "mudaliyarmatrimony",
+		"Link": "www.mudaliyarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "mudaliyar"
 	},
 	{
-		"SITE NAME": ""
+		"WebSiteName": "mudirajmatrimony",
+		"Link": "www.mudirajmatrimony.com",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "mudiraj"
+	},
+	{
+		"WebSiteName": "mudirajtelugumatrimony",
+		"Link": "http://www.mudirajtelugumatrimony.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "mudiraj"
+	},
+	{
+		"WebSiteName": "munnurukapumatrimony",
+		"Link": "www.munnurukapumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "munnurukapu"
+	},
+	{
+		"WebSiteName": "muthurajamatrimony",
+		"Link": "www.muthurajamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "muthuraja"
+	},
+	{
+		"WebSiteName": "naagavamsammatrimony",
+		"Link": "www.naagavamsammatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "naagavamsam"
+	},
+	{
+		"WebSiteName": "nadarmatrimony",
+		"Link": "www.nadarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nadar"
+	},
+	{
+		"WebSiteName": "nagarmatrimony",
+		"Link": "www.nagarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nagar"
+	},
+	{
+		"WebSiteName": "nagaralumatrimony",
+		"Link": "www.nagaralumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nagaralu"
+	},
+	{
+		"WebSiteName": "naimatrimony",
+		"Link": "www.naimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nai"
+	},
+	{
+		"WebSiteName": "naickermatrimony",
+		"Link": "www.naickermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "naicker"
+	},
+	{
+		"WebSiteName": "naikmatrimony",
+		"Link": "www.naikmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "naik"
+	},
+	{
+		"WebSiteName": "nairmatrimony",
+		"Link": "www.nairmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nair"
+	},
+	{
+		"WebSiteName": "nambiarmatrimony",
+		"Link": "www.nambiarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nambiar"
+	},
+	{
+		"WebSiteName": "namboodirimatrimony",
+		"Link": "www.namboodirimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "namboodiri"
+	},
+	{
+		"WebSiteName": "namosudramatrimony",
+		"Link": "www.namosudramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "namosudra"
+	},
+	{
+		"WebSiteName": "napitmatrimony",
+		"Link": "www.napitmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "napit"
+	},
+	{
+		"WebSiteName": "nayakamatrimony",
+		"Link": "www.nayakamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nayaka"
+	},
+	{
+		"WebSiteName": "neelimatrimony",
+		"Link": "www.neelimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "neeli"
+	},
+	{
+		"WebSiteName": "nepalimatrimony",
+		"Link": "www.nepalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nepali"
+	},
+	{
+		"WebSiteName": "nhavimatrimony",
+		"Link": "www.nhavimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "nhavi"
+	},
+	{
+		"WebSiteName": "niyogimatrimony",
+		"Link": "www.niyogimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "niyogi"
+	},
+	{
+		"WebSiteName": "oswalmatrimony",
+		"Link": "www.oswalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "oswal"
+	},
+	{
+		"WebSiteName": "otarimatrimony",
+		"Link": "www.otarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "otari"
+	},
+	{
+		"WebSiteName": "padmasalimatrimony",
+		"Link": "www.padmasalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "padmasali"
+	},
+	{
+		"WebSiteName": "palmatrimony",
+		"Link": "www.palmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "pal"
+	},
+	{
+		"WebSiteName": "panchalmatrimony",
+		"Link": "www.panchalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "panchal"
+	},
+	{
+		"WebSiteName": "pandamatrimony",
+		"Link": "www.pandamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "panda"
+	},
+	{
+		"WebSiteName": "panditmatrimony",
+		"Link": "www.panditmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "pandit"
+	},
+	{
+		"WebSiteName": "panickermatrimony",
+		"Link": "www.panickermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "panicker"
+	},
+	{
+		"WebSiteName": "parkavakulammatrimony",
+		"Link": "www.parkavakulammatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "parkavakulam"
+	},
+	{
+		"WebSiteName": "partrajmatrimony",
+		"Link": "www.partrajmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "partraj"
+	},
+	{
+		"WebSiteName": "pasimatrimony",
+		"Link": "www.pasimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "pasi"
+	},
+	{
+		"WebSiteName": "patelmatrimony",
+		"Link": "www.patelmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "patel"
+	},
+	{
+		"WebSiteName": "patnaickmatrimony",
+		"Link": "www.patnaickmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "patnaick"
+	},
+	{
+		"WebSiteName": "patramatrimony",
+		"Link": "www.patramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "patra"
+	},
+	{
+		"WebSiteName": "perikamatrimony",
+		"Link": "www.perikamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "perika"
+	},
+	{
+		"WebSiteName": "pillaimatrimony",
+		"Link": "www.pillaimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "pillai"
+	},
+	{
+		"WebSiteName": "porwalmatrimony",
+		"Link": "www.porwalmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "porwal"
+	},
+	{
+		"WebSiteName": "prajapatimatrimony",
+		"Link": "www.prajapatimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "prajapati"
+	},
+	{
+		"WebSiteName": "pushkarnamatrimony",
+		"Link": "www.pushkarnamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "pushkarna"
+	},
+	{
+		"WebSiteName": "raigarmatrimony",
+		"Link": "www.raigarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "raigar"
+	},
+	{
+		"WebSiteName": "rajakamatrimony",
+		"Link": "www.rajakamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rajaka"
+	},
+	{
+		"WebSiteName": "rajastanimatrimony",
+		"Link": "www.rajastanimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rajastani"
+	},
+	{
+		"WebSiteName": "rajbonshimatrimony",
+		"Link": "www.rajbonshimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rajbonshi"
+	},
+	{
+		"WebSiteName": "rajputmatrimony",
+		"Link": "www.rajputmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rajput"
+	},
+	{
+		"WebSiteName": "ramdasiamatrimony",
+		"Link": "www.ramdasiamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ramdasia"
+	},
+	{
+		"WebSiteName": "ramgariahmatrimony",
+		"Link": "www.ramgariahmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "ramgariah"
+	},
+	{
+		"WebSiteName": "rarhimatrimony",
+		"Link": "www.rarhimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rarhi"
+	},
+	{
+		"WebSiteName": "rawatmatrimony",
+		"Link": "www.rawatmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rawat"
+	},
+	{
+		"WebSiteName": "reddymatrimony",
+		"Link": "www.reddymatrimony.com",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "reddytelugumatrimony",
+		"Link": "http://www.reddytelugumatrimony.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "kondaveedureddymatrimony",
+		"Link": "http://www.kondaveedureddymatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "saraswathyreddymatrimony",
+		"Link": "http://saraswathyreddymatrimony.com/register_step2.php?pid=1",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "kovaireddymatrimony",
+		"Link": "http://www.kovaireddymatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "ptreddymatrimony",
+		"Link": "http://www.ptreddymatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "devireddiar",
+		"Link": "https://www.devireddiar.com/",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "reddiarmarriageLinks",
+		"Link": "https://www.reddiarmarriageLinks.com/register.php",
+		"Mother Tounge": "Telugu",
+		"Religion": "",
+		"Community": "reddy"
+	},
+	{
+		"WebSiteName": "rellimatrimony",
+		"Link": "www.rellimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "relli"
+	},
+	{
+		"WebSiteName": "rigvedimatrimony",
+		"Link": "www.rigvedimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rigvedi"
+	},
+	{
+		"WebSiteName": "rudrajmatrimony",
+		"Link": "www.rudrajmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "rudraj"
+	},
+	{
+		"WebSiteName": "sadgopematrimony",
+		"Link": "www.sadgopematrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sadgope"
+	},
+	{
+		"WebSiteName": "sahamatrimony",
+		"Link": "www.sahamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "saha"
+	},
+	{
+		"WebSiteName": "sahumatrimony",
+		"Link": "www.sahumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sahu"
+	},
+	{
+		"WebSiteName": "sainimatrimony",
+		"Link": "www.sainimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "saini"
+	},
+	{
+		"WebSiteName": "sakaldwipimatrimony",
+		"Link": "www.sakaldwipimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sakaldwipi"
+	},
+	{
+		"WebSiteName": "saliyamatrimony",
+		"Link": "www.saliyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "saliya"
+	},
+	{
+		"WebSiteName": "sanadyamatrimony",
+		"Link": "www.sanadyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sanadya"
+	},
+	{
+		"WebSiteName": "sanketimatrimony",
+		"Link": "www.sanketimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sanketi"
+	},
+	{
+		"WebSiteName": "savjimatrimony",
+		"Link": "www.savjimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "savji"
+	},
+	{
+		"WebSiteName": "saraswatmatrimony",
+		"Link": "www.saraswatmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "saraswat"
+	},
+	{
+		"WebSiteName": "saryuparinmatrimony",
+		"Link": "www.saryuparinmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "saryuparin"
+	},
+	{
+		"WebSiteName": "scmatrimony",
+		"Link": "www.scmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sc"
+	},
+	{
+		"WebSiteName": "senaithalaivarmatrimony",
+		"Link": "www.senaithalaivarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "senaithalaivar"
+	},
+	{
+		"WebSiteName": "sengunthamudaliyarmatrimony",
+		"Link": "www.sengunthamudaliyarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sengunthamudaliyar"
+	},
+	{
+		"WebSiteName": "settibalijamatrimony",
+		"Link": "www.settibalijamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "settibalija"
+	},
+	{
+		"WebSiteName": "shettymatrimony",
+		"Link": "www.shettymatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "shetty"
+	},
+	{
+		"WebSiteName": "shimpimatrimony",
+		"Link": "www.shimpimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "shimpi"
+	},
+	{
+		"WebSiteName": "shivhallimatrimony",
+		"Link": "www.shivhallimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "shivhalli"
+	},
+	{
+		"WebSiteName": "shrimalimatrimony",
+		"Link": "www.shrimalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "shrimali"
+	},
+	{
+		"WebSiteName": "skpmatrimony",
+		"Link": "www.skpmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "skp"
+	},
+	{
+		"WebSiteName": "smarthamatrimony",
+		"Link": "www.smarthamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "smartha"
+	},
+	{
+		"WebSiteName": "sonarmatrimony",
+		"Link": "www.sonarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sonar"
+	},
+	{
+		"WebSiteName": "sourashtramatrimony",
+		"Link": "www.sourashtramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sourashtra"
+	},
+	{
+		"WebSiteName": "sozhiyavellalarmatrimony",
+		"Link": "www.sozhiyavellalarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sozhiyavellalar"
+	},
+	{
+		"WebSiteName": "stmatrimony",
+		"Link": "www.stmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "st"
+	},
+	{
+		"WebSiteName": "stanikamatrimony",
+		"Link": "www.stanikamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "stanika"
+	},
+	{
+		"WebSiteName": "sugalimatrimony",
+		"Link": "www.sugalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sugali"
+	},
+	{
+		"WebSiteName": "sunarimatrimony",
+		"Link": "www.sunarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sunari"
+	},
+	{
+		"WebSiteName": "sundhimatrimony",
+		"Link": "www.sundhimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sundhi"
+	},
+	{
+		"WebSiteName": "sutharmatrimony",
+		"Link": "www.sutharmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "suthar"
+	},
+	{
+		"WebSiteName": "swakulasalimatrimony",
+		"Link": "www.swakulasalimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "swakulasali"
+	},
+	{
+		"WebSiteName": "sindhimatrimony",
+		"Link": "www.sindhimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "sindhi"
+	},
+	{
+		"WebSiteName": "tambolimatrimony",
+		"Link": "www.tambolimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tamboli"
+	},
+	{
+		"WebSiteName": "tantimatrimony",
+		"Link": "www.tantimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tanti"
+	},
+	{
+		"WebSiteName": "tantubaimatrimony",
+		"Link": "www.tantubaimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tantubai"
+	},
+	{
+		"WebSiteName": "telagamatrimony",
+		"Link": "www.telagamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "telaga"
+	},
+	{
+		"WebSiteName": "telimatrimony",
+		"Link": "www.telimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "teli"
+	},
+	{
+		"WebSiteName": "thakkarmatrimony",
+		"Link": "www.thakkarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "thakkar"
+	},
+	{
+		"WebSiteName": "thakurmatrimony",
+		"Link": "www.thakurmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "thakur"
+	},
+	{
+		"WebSiteName": "thevarmatrimony",
+		"Link": "www.thevarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "thevar"
+	},
+	{
+		"WebSiteName": "thigalamatrimony",
+		"Link": "www.thigalamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "thigala"
+	},
+	{
+		"WebSiteName": "thiyyamatrimony",
+		"Link": "www.thiyyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "thiyya"
+	},
+	{
+		"WebSiteName": "tilimatrimony",
+		"Link": "www.tilimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tili"
+	},
+	{
+		"WebSiteName": "togatamatrimony",
+		"Link": "www.togatamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "togata"
+	},
+	{
+		"WebSiteName": "tonkkshatriyamatrimony",
+		"Link": "www.tonkkshatriyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tonkkshatriya"
+	},
+	{
+		"WebSiteName": "turupukapumatrimony",
+		"Link": "www.turupukapumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "turupukapu"
+	},
+	{
+		"WebSiteName": "tyagimatrimony",
+		"Link": "www.tyagimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "tyagi"
+	},
+	{
+		"WebSiteName": "upparamatrimony",
+		"Link": "www.upparamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "uppara"
+	},
+	{
+		"WebSiteName": "ursmatrimony",
+		"Link": "www.ursmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "urs"
+	},
+	{
+		"WebSiteName": "vadabalijamatrimony",
+		"Link": "www.vadabalijamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vadabalija"
+	},
+	{
+		"WebSiteName": "vadderamatrimony",
+		"Link": "www.vadderamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaddera"
+	},
+	{
+		"WebSiteName": "vaidikimatrimony",
+		"Link": "www.vaidikimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaidiki"
+	},
+	{
+		"WebSiteName": "vaishmatrimony",
+		"Link": "www.vaishmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaish"
+	},
+	{
+		"WebSiteName": "vaishnavmatrimony",
+		"Link": "www.vaishnavmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaishnav"
+	},
+	{
+		"WebSiteName": "vaishnavamatrimony",
+		"Link": "www.vaishnavamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaishnava"
+	},
+	{
+		"WebSiteName": "vaishyamatrimony",
+		"Link": "www.vaishyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaishya"
+	},
+	{
+		"WebSiteName": "vaishyavanimatrimony",
+		"Link": "www.vaishyavanimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaishyavani"
+	},
+	{
+		"WebSiteName": "valluvanmatrimony",
+		"Link": "www.valluvanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "valluvan"
+	},
+	{
+		"WebSiteName": "valmikimatrimony",
+		"Link": "www.valmikimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "valmiki"
+	},
+	{
+		"WebSiteName": "vaniamatrimony",
+		"Link": "www.vaniamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vania"
+	},
+	{
+		"WebSiteName": "vaniyamatrimony",
+		"Link": "www.vaniyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vaniya"
+	},
+	{
+		"WebSiteName": "vanjaramatrimony",
+		"Link": "www.vanjaramatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vanjara"
+	},
+	{
+		"WebSiteName": "vanjarimatrimony",
+		"Link": "www.vanjarimatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vanjari"
+	},
+	{
+		"WebSiteName": "vankarmatrimony",
+		"Link": "www.vankarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vankar"
+	},
+	{
+		"WebSiteName": "vannarmatrimony",
+		"Link": "www.vannarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vannar"
+	},
+	{
+		"WebSiteName": "vanniyarmatrimony",
+		"Link": "www.vanniyarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vanniyar"
+	},
+	{
+		"WebSiteName": "veerasaivammatrimony",
+		"Link": "www.veerasaivammatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "veerasaivam"
+	},
+	{
+		"WebSiteName": "velaanmatrimony",
+		"Link": "www.velaanmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "velaan"
+	},
+	{
+		"WebSiteName": "velanadumatrimony",
+		"Link": "www.velanadumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "velanadu"
+	},
+	{
+		"WebSiteName": "vellalarmatrimony",
+		"Link": "www.vellalarmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vellalar"
+	},
+	{
+		"WebSiteName": "velamanaidumatrimony",
+		"Link": "www.velamanaidumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "velamanaidu"
+	},
+	{
+		"WebSiteName": "veluthedathunairmatrimony",
+		"Link": "www.veluthedathunairmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "veluthedathunair",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vettuvagoundermatrimony",
+		"Link": "www.vettuvagoundermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vettuvagounder",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vilakkithalanairmatrimony",
+		"Link": "www.vilakkithalanairmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vilakkithalanair",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vishwakarmamatrimony",
+		"Link": "www.vishwakarmamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vishwakarma",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "viswabrahminmatrimony",
+		"Link": "www.viswabrahminmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "viswabrahmin",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vokkaligamatrimony",
+		"Link": "www.vokkaligamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vokkaliga",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vyasmatrimony",
+		"Link": "www.vyasmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vyas",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "vysyamatrimony",
+		"Link": "www.vysyamatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "vysya",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "yadavmatrimony",
+		"Link": "www.yadavmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "yadav",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "yellapumatrimony",
+		"Link": "www.yellapumatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "yellapu",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "40plusmatrimony.com",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": ""
+	},
+	{
+		"WebSiteName": "abilitymatrimony",
+		"Link": "abilitymatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "handicappedmatrimony",
+		"Link": "handicappedmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "viklangshaadi",
+		"Link": "www.viklangshaadi.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "divyangjeevansathi",
+		"Link": "divyangjeevansathi.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "healthpartnermatrimony",
+		"Link": "http://healthpartnermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "imilap",
+		"Link": "www.imilap.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "inclov",
+		"Link": "https://www.inclov.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "a2zvivah",
+		"Link": "http://www.a2zvivah.com/matrimonials/Handicapped",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Handicapped"
+	},
+	{
+		"WebSiteName": "divorceematrimony",
+		"Link": "www.divorceematrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Divorcee"
+	},
+	{
+		"WebSiteName": "secondshaadi",
+		"Link": "https://www.secondshaadi.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Divorcee"
+	},
+	{
+		"WebSiteName": "re-marriage",
+		"Link": "https://www.re-marriage.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Divorcee"
+	},
+	{
+		"WebSiteName": "remarriage",
+		"Link": "https://remarriage.lifepartner.in/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Divorcee"
+	},
+	{
+		"WebSiteName": "manglikmatrimony",
+		"Link": "manglikmatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Manglik"
+	},
+	{
+		"WebSiteName": "mangliks",
+		"Link": "www.mangliks.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Manglik"
+	},
+	{
+		"WebSiteName": "rishtonkasansar",
+		"Link": "http://www.rishtonkasansar.com/manglik-matrimony.aspx",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Manglik"
+	},
+	{
+		"WebSiteName": "imarriages",
+		"Link": "https://imarriages.com/manglik-matrimony",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Manglik"
+	},
+	{
+		"WebSiteName": "hindimatrimony",
+		"Link": "https://www.hindimatrimony.com/community/manglik-matrimonial",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Manglik"
+	},
+	{
+		"WebSiteName": "defencematrimony",
+		"Link": "defencematrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Defence"
+	},
+	{
+		"WebSiteName": "defencewardsmatrimony",
+		"Link": "www.defencewardsmatrimony.com/‎",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Defence"
+	},
+	{
+		"WebSiteName": "indianfaujies",
+		"Link": "https://www.indianfaujies.com/matrimonial",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Defence"
+	},
+	{
+		"WebSiteName": "a2z-matrimonial",
+		"Link": "http://www.a2z-matrimonial.com/matrimonial-sites/p0112/Defence+Matrimonial/1",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Defence"
+	},
+	{
+		"WebSiteName": "CancerSurvivor",
+		"Link": "http://www.csmatrimony.com/freshregister.php",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Cancer Winner"
+	},
+	{
+		"WebSiteName": "made4umatrimony",
+		"Link": "www.made4umatrimony.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Cancer Winner"
+	},
+	{
+		"WebSiteName": "hatkeshaadi",
+		"Link": "http://www.hatkeshaadi.com/blog/2014/02/matrimony-site-cancer-survivors/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Cancer Winner"
+	},
+	{
+		"WebSiteName": "healthpartnermatrimony",
+		"Link": "http://healthpartnermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Cancer Winner"
+	},
+	{
+		"WebSiteName": "hivshaadi",
+		"Link": "www.hivshaadi.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "positivesaathi",
+		"Link": "https://positivesaathi.com/index.php?option=com_positivesaathi&view=memberform&Itemid=131",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "healthpartnermatrimony",
+		"Link": "http://healthpartnermatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "freesathi",
+		"Link": "http://www.freesathi.com/DetailView/PhysicalStatus-HIV_Positive-2-Female-Page1.aspx",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "getmemarry",
+		"Link": "https://www.getmemarry.com/hivpositive-matrimonial-bride.php",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "jeevansathi",
+		"Link": "https://www.jeevansathi.com/hiv-positive-brides-girls",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "HIV Positive"
+	},
+	{
+		"WebSiteName": "EliteMatrimony",
+		"Link": "EliteMatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "ultrarichmatch",
+		"Link": "www.ultrarichmatch.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "vipshaadi",
+		"Link": "www.vipshaadi.in/Get_Invited‎",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "elitevivaah",
+		"Link": "https://elitevivaah.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "sycorian",
+		"Link": "https://sycorian.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "AssistedMatrimony",
+		"Link": "www.AssistedMatrimony.com",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "Rich"
+	},
+	{
+		"WebSiteName": "nrimb",
+		"Link": "https://www.nrimb.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "NRI"
+	},
+	{
+		"WebSiteName": "gowedlock",
+		"Link": "https://www.gowedlock.com/",
+		"Mother Tounge": "",
+		"Religion": "",
+		"Community": "",
+		"Special Catogary": "NRI"
+	},
+	{
+		"WebSiteName": "addharmimatrimony.com",
+		"Link": ".com",
+		"Mother Tounge": "addharmimatrimony.com.com"
+	},
+	{
+		"WebSiteName": "adidravidarmatrimony",
+		"Link": ".com",
+		"Mother Tounge": "adidravidarmatrimony.com"
+	},
+	{
+		"WebSiteName": "agarwalmatrimony",
+		"Link": ".com",
+		"Mother Tounge": "agarwalmatrimony.com"
+	},
+	{
+		"WebSiteName": "agrimatrimony",
+		"Link": ".com",
+		"Mother Tounge": "agrimatrimony.com"
+	},
+	{
+		"WebSiteName": "ahommatrimony",
+		"Link": ".com",
+		"Mother Tounge": "ahommatrimony.com"
+	},
+	{
+		"WebSiteName": "ambalavasimatrimony",
+		"Link": ".com",
+		"Mother Tounge": "ambalavasimatrimony.com"
+	},
+	{
+		"WebSiteName": "anavilmatrimony",
+		"Link": ".com",
+		"Mother Tounge": "anavilmatrimony.com"
+	},
+	{
+		"WebSiteName": "arekaticamatrimony",
+		"Link": ".com",
+		"Mother Tounge": "arekaticamatrimony.com"
+	},
+	{
+		"WebSiteName": "arunthathiyarmatrimony",
+		"Link": ".com",
+		"Mother Tounge": "arunthathiyarmatrimony.com"
+	},
+	{
+		"WebSiteName": "aroramatrimony",
+		"Link": ".com",
+		"Mother Tounge": "aroramatrimony.com"
+	},
+	{
+		"WebSiteName": "aryavysyamatrimony",
+		"Link": ".com",
+		"Mother Tounge": "aryavysyamatrimony.com"
+	},
+	{
+		"WebSiteName": "audichyamatrimony",
+		"Link": ".com",
+		"Mother Tounge": "audichyamatrimony.com"
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": ""
+	},
+	{
+		"WebSiteName": "badagarmatrimony",
+		"Link": ".com",
+		"Mother Tounge": "badagarmatrimony.com"
+	},
+	{
+		"WebSiteName": "baidyamatrimony",
+		"Link": ".com",
+		"Mother Tounge": "baidyamatrimony.com"
+	},
+	{
+		"WebSiteName": "adidravidarmatrimony"
+	},
+	{
+		"WebSiteName": "addharmi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "adidravidar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "agarwal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "agri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ahom",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ambalavasi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "anavil",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "arekatica",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "arunthathiyar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "arora",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "aryavysya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "audichya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "badagar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "baidya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "baishnab",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "baishya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "balijanaidu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "banik",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "baniya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "banjara",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "barai",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "barendra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "barujibi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "besta",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhandari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhatia",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhatraju",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhatt",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhavasarkshatriya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhovi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "bhumihar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "billava",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "boyer",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "brahmbhatt",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "brahmin",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chambhar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chandravanshikahar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chasa",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chattadasrivaishnava",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chaudary",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chaurasia",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chettiyar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chhetri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "chippolu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ckp",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "coorg",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "daivadnya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "danua",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "deshastha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "devadiga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "devendrar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "devanga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "devangkoshthi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dhanghar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dheevara",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dhiman",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dhoba",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dhobi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dravida",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dumal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "dusadh",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ediga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ezhava",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ezhuthachan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gabit",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gandla",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ganiga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "garhwal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gaur",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gavaranaidu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gawali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ghisadi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ghumar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "goala",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gomantak",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gondhali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "goud",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "goundar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gowda",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gramani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gudia",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gujjar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gupta",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "guptan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gurav",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gurjar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "gurukkal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "halua",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "havyaka",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "hugar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "hoysala",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "intercaste",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "irani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "iyengar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "iyer",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jaalari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jaiswal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jandra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jangam",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jangid",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jat",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jatav",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jhadua",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "jogi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kachara",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kadavapatel",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kaibarta",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kalar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kalinga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kalingavysya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kalita",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kalwar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kamboj",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kammanaidu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kansari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kanyakubj",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kapunaidu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "karana",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "karhade",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "karmakar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "karuneegar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kasar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kashyap",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "katiya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kayastha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "khandayat",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "khandelwal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kharwar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "khatri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "koiri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kokanastha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kokanasthamaratha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "koli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "konguvelalagounder",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "konkan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kori",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kota",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kshatriya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kudumbi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kulal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kulalar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kulin",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kulita",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kumawat",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kumbhakar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kumbhar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kumhar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kummari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kumoani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kunbi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kuravan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kurmi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kurmikshatriya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kuruba",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kuruhinashetty",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "kurumbar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "keralachristian",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "lambani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "levapatel",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "levapatil",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "lingayath",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "lodhirajput",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "lohana",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "lubana",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "madhva",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "madiga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mahajan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mahar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mahendra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "maheshwari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mahishya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "maithil",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "majabi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mala",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "malla",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mangalorean",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "manipuri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mapila",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "maratha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "maruthuvar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "matang",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mathur",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "meena",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "meenavar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mehra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "merudarji",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mochi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "modak",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "modh",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mogaveera",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mudaliyar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "mudiraj",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "munnurukapu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "muthuraja",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "naagavamsam",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nadar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nagar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nagaralu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nai",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "naicker",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "naik",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nair",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nambiar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "namboodiri",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "namosudra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "napit",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nayaka",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "neeli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nepali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "nhavi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "niyogi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "oswal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "otari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "padmasali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "pal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "panchal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "panda",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "pandit",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "panicker",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "parkavakulam",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "partraj",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "pasi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "patel",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "patnaick",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "patra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "perika",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "pillai",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "porwal",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "prajapati",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "pushkarna",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "raigar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rajaka",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rajastani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rajbonshi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rajput",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ramdasia",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "ramgariah",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rarhi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rawat",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "reddy",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "relli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rigvedi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "rudraj",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sadgope",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "saha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sahu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "saini",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sakaldwipi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "saliya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sanadya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sanketi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "savji",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "saraswat",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "saryuparin",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sc",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "senaithalaivar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sengunthamudaliyar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "settibalija",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "shetty",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "shimpi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "shivhalli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "shrimali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "skp",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "smartha",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sonar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sourashtra",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sozhiyavellalar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "st",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "stanika",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sugali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sunari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sundhi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "suthar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "swakulasali",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "sindhi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tamboli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tanti",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tantubai",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "telaga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "teli",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "thakkar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "thakur",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "thevar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "thigala",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "thiyya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tili",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "togata",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tonkkshatriya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "turupukapu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "tyagi",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "uppara",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "urs",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vadabalija",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaddera",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaidiki",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaish",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaishnav",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaishnava",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaishya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaishyavani",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "valluvan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "valmiki",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vania",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vaniya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vanjara",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vanjari",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vankar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vannar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vanniyar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "veerasaivam",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "velaan",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "velanadu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vellalar",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "velamanaidu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "veluthedathunair",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vettuvagounder",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vilakkithalanair",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vishwakarma",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "viswabrahmin",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vokkaliga",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vyas",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "vysya",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "yadav",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "yellapu",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": "",
+		"Link": "",
+		"Mother Tounge": "",
+		"Religion": ""
+	},
+	{
+		"WebSiteName": ""
 	}
 ]
