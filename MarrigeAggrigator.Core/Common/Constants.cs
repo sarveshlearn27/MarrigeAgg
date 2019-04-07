@@ -12,6 +12,9 @@ namespace MarrigeAggrigator.Core
         public const string Viewprofile = "View profiles on {0}";
         public const string AllMatrimonyWebSitesPath = @"\DataSource" + @"\AllMatrimonySites.json";
         public const string AllProfiles = @"\DataSource" + @"\AllProfiles.json";
+        public const string Male = "Man";
+        public const string Female = "Woman";
+        public const string Muslim = "Muslim";
 
 
     }

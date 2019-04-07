@@ -2,6 +2,13 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+@section Scripts
+{
+    <script src="@Url.Content("~/Scripts/Marrige_Aggrigator_Global.js")"></script>
+    <script src="@Url.Content("~/Scripts/profile.js")"></script>
+    <script src="@Url.Content("~/Scripts/search.js")"></script>
+}
+
 <div class="bg">
     <div class="search">
 
@@ -11,17 +18,20 @@
             <option>Man</option>
         </select>
 
-        <label for="ageValues">aged</label>
-        <select id="ageValues" class="searchSelect"></select>
-        <label for="ageValues2">to</label>
-        <select id="ageValues2" class="searchSelect"></select>
-
-        <label for="religion">of religion</label>
+        <label for="religion">of Religion</label>
         <select id="religion" class="searchSelect"></select>
 
-        <label for="mothertounge">and mother tongue</label>
+        <label for="mothertounge">Mother Tongue</label>
         <select id="mothertounge" class="searchSelect"></select>
 
-        <button type="button" class="btn btn-primary begin">Let's Begin</button>
+        <label for="community">Community</label>
+        <select id="community" class="searchSelect"></select>
+
+        <label for="specialCategory">Special Category</label>
+        <select id="specialCategory" class="searchSelect"></select>
+
+        <button type="button" class="btn btn-primary begin" id="search">Let's Begin</button>
     </div>
 </div>
+
+

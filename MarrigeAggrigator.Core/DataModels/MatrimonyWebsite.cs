@@ -20,6 +20,12 @@ namespace MarrigeAggrigator.Core
 
         public string IsFremium { get; set; }
 
+        public string MotherTounge { get; set; }
+
+        public string Religion { get; set; }
+
+        public string SpecialCategory { get; set; }
+
         public List<MatrimonyProfile> Profiles { get; set; }
 
     }

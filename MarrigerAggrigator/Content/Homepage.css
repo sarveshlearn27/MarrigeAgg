@@ -33,10 +33,11 @@
     color: #fff !important;
     padding: 15px 19px 0;
     overflow: hidden;
-    margin-top: 36%;
-    width: 80%;
-    margin-left: 10%;
+    width: 100%;
     padding: 10px;
+    position: absolute;
+    margin: 0%;
+    top: 50%;
 }
 
 label {
@@ -49,7 +50,7 @@ select {
 
 .searchSelect {
     display: inline;
-    width: 8%;
+    width: 9%;
     height: 34px;
     padding: 6px 12px;
     font-size: 14px;
